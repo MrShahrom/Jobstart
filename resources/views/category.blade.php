@@ -7,8 +7,8 @@
 @section('banner')
 <div class="unit-5 overlay" style="background-image: url('images/hero_bg_2.jpg');">
       <div class="container text-center">
-        <h2 class="mb-0">Category</h2>
-        <p class="mb-0 unit-6"><a href="/">Home</a> <span class="sep">></span> <span>Category</span></p>
+        <h2 class="mb-0">Категория</h2>
+        <p class="mb-0 unit-6"><a href="/">Главная</a> <span class="sep">></span> <span>Категория</span></p>
       </div>
     </div>
 @endsection
@@ -19,20 +19,20 @@
       <div class="container">
         <div class="row justify-content-start text-left mb-5">
           <div class="col-md-9" data-aos="fade">
-            <span class="text-gray-500">Category</span>
-            <h2 class="font-weight-bold text-black">Full Time</h2>
+            <span class="text-gray-500">Категория</span>
+            <h2 class="font-weight-bold text-black">Польный рабочий день</h2>
           </div>
           <div class="col-md-3" data-aos="fade" data-aos-delay="200">
             <div class="select-wrap mr-auto">
               <span class="icon-keyboard_arrow_down arrow-down"></span>
               <select name="" id="" class="form-control">
-                <option value="">Category</option>
-                <option value="fulltime" selected>Full Time</option>
-                <option value="fulltime">Part Time</option>
-                <option value="freelance">Freelance</option>
-                <option value="internship">Internship</option>
-                <option value="internship">Termporary</option>
-              </select>
+                            <option value="">Категория</option>
+                            <option value="fulltime">Полный рабочий день</option>
+                            <option value="fulltime">Неполный рабочий день</option>
+                            <option value="freelance">Удаленный</option>
+                            <option value="internship">Стажер</option>
+                            <option value="internship">Временный</option>
+                          </select>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Frontend Development</h2>
+                 <h2 class="mr-3 text-black h4">Frontend разработчик</h2>
                  <div class="badge-wrap">
                   <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
                  </div>
@@ -57,7 +57,7 @@
 
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
            </div>
 
@@ -70,9 +70,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Full Stack Developer</h2>
+                 <h2 class="mr-3 text-black h4">Full Stack разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -83,7 +83,7 @@
 
               <div class="ml-auto">
                 <a href="#" class="btn btn-danger rounded-circle btn-favorite active"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
 
            </div>
@@ -96,9 +96,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Open Source Interactive Developer</h2>
+                 <h2 class="mr-3 text-black h4">Open Source Interactive разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -109,7 +109,7 @@
               
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
 
            </div>
@@ -123,9 +123,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Frontend Development</h2>
+                 <h2 class="mr-3 text-black h4">Frontend разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -136,7 +136,7 @@
 
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
            </div>
 
@@ -149,9 +149,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Full Stack Developer</h2>
+                 <h2 class="mr-3 text-black h4">Full Stack разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -162,7 +162,7 @@
 
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
 
            </div>
@@ -175,9 +175,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Open Source Interactive Developer</h2>
+                 <h2 class="mr-3 text-black h4">Open Source Interactive разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -188,7 +188,7 @@
               
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
 
            </div>
@@ -202,9 +202,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Frontend Development</h2>
+                 <h2 class="mr-3 text-black h4">Frontend разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -215,7 +215,7 @@
 
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
            </div>
 
@@ -228,9 +228,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Full Stack Developer</h2>
+                 <h2 class="mr-3 text-black h4">Full Stack разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -241,7 +241,7 @@
 
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
 
            </div>
@@ -254,9 +254,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Open Source Interactive Developer</h2>
+                 <h2 class="mr-3 text-black h4">Open Source Interactive разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -267,7 +267,7 @@
               
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
 
            </div>
@@ -281,9 +281,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Frontend Development</h2>
+                 <h2 class="mr-3 text-black h4">Frontend разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -294,7 +294,7 @@
 
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
            </div>
 
@@ -307,9 +307,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Full Stack Developer</h2>
+                 <h2 class="mr-3 text-black h4">Full Stack разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -320,7 +320,7 @@
 
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">подать заявку</a>
               </div>
 
            </div>
@@ -333,9 +333,9 @@
 
               <div class="mb-4 mb-md-0 mr-5">
                <div class="job-post-item-header d-flex align-items-center">
-                 <h2 class="mr-3 text-black h4">Open Source Interactive Developer</h2>
+                 <h2 class="mr-3 text-black h4">Open Source Interactive разработчик</h2>
                  <div class="badge-wrap">
-                  <span class="bg-warning text-white badge py-2 px-4">Full Time</span>
+                  <span class="bg-warning text-white badge py-2 px-4">Польный рабочий день</span>
                  </div>
                </div>
                <div class="job-post-item-body d-block d-md-flex">
@@ -346,7 +346,7 @@
               
               <div class="ml-auto">
                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                <a href="#" class="btn btn-primary py-2">Apply Job</a>
+                <a href="#" class="btn btn-primary py-2">Подать заявку</a>
               </div>
 
            </div>
@@ -375,7 +375,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="text-white h4 font-weihgt-normal mb-4">Subscribe Newsletter</h2>
+            <h2 class="text-white h4 font-weihgt-normal mb-4">Подписаться на рассылку</h2>
           </div>
         </div>
         <form action="" class="row">
@@ -383,7 +383,7 @@
             <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Enter Your Email">
           </div>
           <div class="col-md-3">
-            <input type="submit" value="Send" class="btn btn-dark btn-block" style="height: 45px;">  
+            <input type="submit" value="Отправить" class="btn btn-dark btn-block" style="height: 45px;">  
           </div>
         </form>
       </div>

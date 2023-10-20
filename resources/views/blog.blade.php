@@ -8,7 +8,7 @@
 <div class="unit-5 overlay" style="background-image: url('images/hero_bg_2.jpg');">
       <div class="container text-center">
         <h2 class="mb-0">Blog</h2>
-        <p class="mb-0 unit-6"><a href="/">Home</a> <span class="sep">></span> <span>Blog</span></p>
+        <p class="mb-0 unit-6"><a href="/">Home</a> <span class="sep">></span> <span>Блог</span></p>
       </div>
     </div>
 @endsection
@@ -143,7 +143,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="text-white h4 font-weihgt-normal mb-4">Subscribe Newsletter</h2>
+            <h2 class="text-white h4 font-weihgt-normal mb-4">Подписаться на рассылку</h2>
           </div>
         </div>
         <form action="" class="row">
@@ -151,7 +151,7 @@
             <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Enter Your Email">
           </div>
           <div class="col-md-3">
-            <input type="submit" value="Send" class="btn btn-dark btn-block" style="height: 45px;">  
+            <input type="submit" value="Отправить" class="btn btn-dark btn-block" style="height: 45px;">  
           </div>
         </form>
       </div>

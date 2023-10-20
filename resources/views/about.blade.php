@@ -8,7 +8,7 @@
  <div class="unit-5 overlay" style="background-image: url('images/hero_bg_2.jpg');">
       <div class="container text-center">
         <h2 class="mb-0">About</h2>
-        <p class="mb-0 unit-6"><a href="/">Home</a> <span class="sep">></span> <span>About</span></p>
+        <p class="mb-0 unit-6"><a href="/">Home</a> <span class="sep">></span> <span>О нас</span></p>
       </div>
     </div>
 
@@ -23,7 +23,7 @@
           </div>
           <div class="col-lg-6 col-md-12">
             <div class="bg-white pl-lg-5 pl-0  pb-lg-5 pb-0">
-            <h2 class="font-weight-bold text-black" data-aos="fade">About</h2>
+            <h2 class="font-weight-bold text-black" data-aos="fade">О нас</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur atque perferendis, laudantium quod architecto velit ad officiis facere eveniet in fuga fugiat delectus rerum doloribus quos consectetur unde, expedita, quibusdam corporis impedit quia sequi aliquid sit. Ducimus labore molestias odio nam necessitatibus laboriosam vero saepe enim nobis. Repudiandae quidem, sint earum dolorum consequuntur dignissimos excepturi mollitia omnis aliquid, corporis, unde!</p>
             <ul class="site-block-check">
               <li>Lorem ipsum dolor sit amet.</li>
@@ -44,7 +44,7 @@
       <div class="container">
         <div class="row justify-content-center mb-5">
           <div class="col-md-7 text-center">
-            <h2 class="font-weight-bold text-black" data-aos="fade">Our Team</h2>
+            <h2 class="font-weight-bold text-black" data-aos="fade">Наша команда</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum magnam illum maiores adipisci pariatur, eveniet.</p>
           </div>
         </div>
@@ -100,7 +100,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-6" data-aos="fade" >
-            <h2 class="text-black">Why Job<strong>start</strong> </h2>
+          <h2 class="text-black">Почему Job<strong>start</strong> </h2>
           </div>
         </div>
         <div class="row hosting">
@@ -114,7 +114,7 @@
                     <path fill-rule="evenodd" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none" d="M29.000,66.000 L1.012,49.750 L1.012,17.250 L29.000,1.000 L56.988,17.250 L56.988,49.750 L29.000,66.000 Z"></path>
                   </svg><span class="unit-3-icon icon fl-bigmug-line-portfolio23"></span>
                 </div>
-                <h2 class="h5">Search Millions of Jobs</h2>
+                <h2 class="h5">Искать миллионы вакансий</h2>
               </div>
               <div class="unit-3-body">
                 <p>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</p>
@@ -132,7 +132,7 @@
                     <path fill-rule="evenodd" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none" d="M29.000,66.000 L1.012,49.750 L1.012,17.250 L29.000,1.000 L56.988,17.250 L56.988,49.750 L29.000,66.000 Z"></path>
                   </svg><span class="unit-3-icon icon fl-bigmug-line-big104"></span>
                 </div>
-                <h2 class="h5">Location Search</h2>
+                <h2 class="h5">Поиск местоположения</h2>
               </div>
               <div class="unit-3-body">
                 <p>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</p>
@@ -150,7 +150,7 @@
                     <path fill-rule="evenodd" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none" d="M29.000,66.000 L1.012,49.750 L1.012,17.250 L29.000,1.000 L56.988,17.250 L56.988,49.750 L29.000,66.000 Z"></path>
                   </svg><span class="unit-3-icon icon fl-bigmug-line-airplane86"></span>
                 </div>
-                <h2 class="h5">Top Careers</h2>
+                <h2 class="h5">Лучшие карьеры</h2>
               </div>
               <div class="unit-3-body">
                 <p>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</p>
@@ -169,7 +169,7 @@
                     <path fill-rule="evenodd" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none" d="M29.000,66.000 L1.012,49.750 L1.012,17.250 L29.000,1.000 L56.988,17.250 L56.988,49.750 L29.000,66.000 Z"></path>
                   </svg><span class="unit-3-icon icon fl-bigmug-line-user144"></span>
                 </div>
-                <h2 class="h5">Search Expert Candidates</h2>
+                <h2 class="h5">Поиск экспертных кандидатов</h2>
               </div>
               <div class="unit-3-body">
                 <p>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</p>
@@ -187,7 +187,7 @@
                     <path fill-rule="evenodd" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none" d="M29.000,66.000 L1.012,49.750 L1.012,17.250 L29.000,1.000 L56.988,17.250 L56.988,49.750 L29.000,66.000 Z"></path>
                   </svg><span class="unit-3-icon icon fl-bigmug-line-clipboard68"></span>
                 </div>
-                <h2 class="h5">Easy To Manage Jobs</h2>
+                <h2 class="h5">Лекго управлять заданиями</h2>
               </div>
               <div class="unit-3-body">
                 <p>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</p>
@@ -205,7 +205,7 @@
                     <path fill-rule="evenodd" stroke-width="2px" stroke-linecap="butt" stroke-linejoin="miter" fill="none" d="M29.000,66.000 L1.012,49.750 L1.012,17.250 L29.000,1.000 L56.988,17.250 L56.988,49.750 L29.000,66.000 Z"></path>
                   </svg><span class="unit-3-icon icon fl-bigmug-line-user143"></span>
                 </div>
-                <h2 class="h5">Online Reviews</h2>
+                <h2 class="h5">Онлайн-обзоры</h2>
               </div>
               <div class="unit-3-body">
                 <p>Lorem ipsum dolor sit amet consectetur is a nice adipisicing elita ssumenda a similique perferendis dolorem eos.</p>
@@ -223,8 +223,8 @@
       <div class="container">
         <div class="row row-custom align-items-center">
           <div class="col-md-10">
-            <h1 class="mb-2 text-black w-75">Get 40% Less For <span class="font-weight-bold">New Employer</span> Job Posts</h1>
-            <p class="h3"><a href="#" class="btn btn-primary py-3 px-5">Post a Job</a></p>
+            <h1 class="mb-2 text-black w-75">Получите 40% скидку на новые вакансии от <span class="font-weight-bold"> Нового Работодателя</span> </h1>
+            <p class="h3"><a href="#" class="btn btn-primary py-3 px-5">Разместить вакансию</a></p>
           </div>
         </div>
       </div>
@@ -233,7 +233,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2 class="text-white h4 font-weihgt-normal mb-4">Subscribe Newsletter</h2>
+            <h2 class="text-white h4 font-weihgt-normal mb-4">Подписаться на рассылку</h2>
           </div>
         </div>
         <form action="" class="row">
@@ -241,7 +241,7 @@
             <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Enter Your Email">
           </div>
           <div class="col-md-3">
-            <input type="submit" value="Send" class="btn btn-dark btn-block" style="height: 45px;">  
+            <input type="submit" value="Отправить" class="btn btn-dark btn-block" style="height: 45px;">  
           </div>
         </form>
       </div>

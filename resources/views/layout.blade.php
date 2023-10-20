@@ -58,15 +58,15 @@
                   <ul class="dropdown">
                     <li><a href="#">Полный рабочий день</a></li>
                     <li><a href="#">Неполный рабочий день</a></li>
-                    <li><a href="#">Freelance</a></li>
-                    <li><a href="#">Internship</a></li>
-                    <li><a href="#">Termporary</a></li>
+                    <li><a href="#">Удаленный</a></li>
+                    <li><a href="#">Стажер</a></li>
+                    <li><a href="#">Временный</a></li>
                   </ul>
                 </li>
-                <li><a href="blog">Blog</a></li>
-                <li><a href="about">About</a></li>
-                <li><a href="contact">Contact</a></li>
-                <li><a href="new-post"><span class="rounded bg-primary py-2 px-3 text-white"><span class="h5 mr-2">+</span> Post a Job</span></a></li>
+                <li><a href="blog">Блог</a></li>
+                <li><a href="about">О нас</a></li>
+                <li><a href="contact">Контакты</a></li>
+                <li><a href="new-post"><span class="rounded bg-primary py-2 px-3 text-white"><span class="h5 mr-2">+</span> Разместить вакансию</span></a></li>
               </ul>
             </nav>
           </div>
@@ -101,58 +101,58 @@
           <div class="col-lg-9">
             <div class="row">
               <div class="col-6 col-md-3 col-lg-3 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">For Candidates</h3>
+                <h3 class="footer-heading mb-4">Для кандидатов</h3>
                 <ul class="list-unstyled">
-                  <li><a href="#">Register</a></li>
-                  <li><a href="#">Find Jobs</a></li>
-                  <li><a href="#">News</a></li>
-                  <li><a href="#">Search Jobs</a></li>
-                  <li><a href="#">Contact</a></li>
-                  <li><a href="#">Careers</a></li>
+                  <li><a href="#">Регистрация</a></li>
+                  <li><a href="#">Найти работу</a></li>
+                  <li><a href="#">Новости</a></li>
+                  <li><a href="#">Поиск работы</a></li>
+                  <li><a href="#">Контакты</a></li>
+                  <li><a href="#">Карьера</a></li>
                 </ul>
               </div>
               <div class="col-6 col-md-3 col-lg-3 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">For Employers</h3>
+                <h3 class="footer-heading mb-4">Для работодателей</h3>
                 <ul class="list-unstyled">
-                  <li><a href="#">Employer Account</a></li>
-                  <li><a href="#">Clients</a></li>
-                  <li><a href="#">News</a></li>
-                  <li><a href="#">Find Candidates</a></li>
-                  <li><a href="#">Terms &amp; Policies</a></li>
-                  <li><a href="#">Careers</a></li>
+                  <li><a href="#">Счет работодателя</a></li>
+                  <li><a href="#">Клиенты</a></li>
+                  <li><a href="#">Новосты</a></li>
+                  <li><a href="#">Найти кандидатов</a></li>
+                  <li><a href="#">Условия &amp; Политика</a></li>
+                  <li><a href="#">Карьера</a></li>
                 </ul>
               </div>
               <div class="col-6 col-md-3 col-lg-3 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">Archives</h3>
+                <h3 class="footer-heading mb-4">Архивы</h3>
                 <ul class="list-unstyled">
-                  <li><a href="#">January 2018</a></li>
-                  <li><a href="#">February 2018</a></li>
-                  <li><a href="#">March 2018</a></li>
-                  <li><a href="#">April 2018</a></li>
-                  <li><a href="#">May 2018</a></li>
-                  <li><a href="#">June 2918</a></li>
+                  <li><a href="#">Январь 2023</a></li>
+                  <li><a href="#">Февраль 2023</a></li>
+                  <li><a href="#">Март 2023</a></li>
+                  <li><a href="#">Апрель 2023</a></li>
+                  <li><a href="#">Май 2023</a></li>
+                  <li><a href="#">Июнь 2023</a></li>
                 </ul>
               </div>
               <div class="col-6 col-md-3 col-lg-3 mb-5 mb-lg-0">
-                <h3 class="footer-heading mb-4">Company</h3>
+                <h3 class="footer-heading mb-4">Компания</h3>
                 <ul class="list-unstyled">
-                  <li><a href="#">About</a></li>
-                  <li><a href="#">Team</a></li>
-                  <li><a href="#">Terms &amp; Policies</a></li>
-                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="#">О нас</a></li>
+                  <li><a href="#">Команда</a></li>
+                  <li><a href="#">Условия &amp; Политика</a></li>
+                  <li><a href="#">Связаться с нами</a></li>
                 </ul>
               </div>
             </div>
           </div>
           <div class="col-lg-3">
-            <h3 class="footer-heading mb-4">Contact Info</h3>
+            <h3 class="footer-heading mb-4">Контакная информация</h3>
             <ul class="list-unstyled">
               <li>
-                <span class="d-block text-white">Address</span>
+                <span class="d-block text-white">Адрес</span>
                 New York - 2398 10 Hadson Carl Street
               </li>
               <li>
-                <span class="d-block text-white">Telephone</span>
+                <span class="d-block text-white">Телефон</span>
                 +1 232 305 3930
               </li>
               <li>
@@ -167,7 +167,7 @@
           <div class="col-md-12">
             <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy; <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            Авторские права &copy; <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> Все права защищены<i class="icon-heart text-danger" aria-hidden="true"></i> 
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
           </div>
