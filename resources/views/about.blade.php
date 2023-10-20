@@ -7,7 +7,7 @@
 @section('banner')
  <div class="unit-5 overlay" style="background-image: url('images/hero_bg_2.jpg');">
       <div class="container text-center">
-        <h2 class="mb-0">About</h2>
+        <h2 class="mb-0">О нас</h2>
         <p class="mb-0 unit-6"><a href="/">Home</a> <span class="sep">></span> <span>О нас</span></p>
       </div>
     </div>

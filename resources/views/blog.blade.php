@@ -148,7 +148,7 @@
         </div>
         <form action="" class="row">
           <div class="col-md-9">
-            <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Enter Your Email">
+            <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Ваш эл.почта">
           </div>
           <div class="col-md-3">
             <input type="submit" value="Отправить" class="btn btn-dark btn-block" style="height: 45px;">  

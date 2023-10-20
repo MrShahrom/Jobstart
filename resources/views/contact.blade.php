@@ -26,13 +26,13 @@
               <div class="row form-group">
                 <div class="col-md-12 mb-3 mb-md-0">
                   <label class="font-weight-bold" for="fullname">Полная имя</label>
-                  <input type="text" id="fullname" class="form-control" placeholder="Full Name">
+                  <input type="text" id="fullname" class="form-control" placeholder="Полная имя">
                 </div>
               </div>
               <div class="row form-group">
                 <div class="col-md-12">
-                  <label class="font-weight-bold" for="email">Email</label>
-                  <input type="email" id="email" class="form-control" placeholder="Email Address">
+                  <label class="font-weight-bold" for="email">Эл.почта</label>
+                  <input type="email" id="email" class="form-control" placeholder="Эл.почта">
                 </div>
               </div>
               <div class="row form-group">
@@ -46,7 +46,7 @@
               <div class="row form-group">
                 <div class="col-md-12">
                   <label class="font-weight-bold" for="message">Сообщение</label> 
-                  <textarea name="message" id="message" cols="30" rows="5" class="form-control" placeholder="Say hello to us"></textarea>
+                  <textarea name="message" id="message" cols="30" rows="5" class="form-control" placeholder="Сообщение"></textarea>
                 </div>
               </div>
 
@@ -69,7 +69,7 @@
               <p class="mb-0 font-weight-bold">Телефон</p>
               <p class="mb-4"><a href="#">+1 232 3235 324</a></p>
 
-              <p class="mb-0 font-weight-bold">Email адрес</p>
+              <p class="mb-0 font-weight-bold">Эл.почта</p>
               <p class="mb-0"><a href="#">youremail@domain.com</a></p>
 
             </div>
