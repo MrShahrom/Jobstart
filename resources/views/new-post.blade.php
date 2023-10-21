@@ -16,6 +16,12 @@
 @section('content')
 <div class="site-section bg-light">
     <div class="container">
+      @if (session()->has('success'))
+        <div class="alert alert-success">
+          {{session()->get('success')}}
+        </div>
+      @endif
+      <?php session()->forget('success'); ?>
         <div class="row">
             <div class="col-md-12 col-lg-8 mb-5">
                 <form action="{{ route('job.create') }}" method="post" class="p-5 bg-white">

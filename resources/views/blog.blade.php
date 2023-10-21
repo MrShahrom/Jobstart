@@ -8,7 +8,7 @@
 <div class="unit-5 overlay" style="background-image: url('images/hero_bg_2.jpg');">
       <div class="container text-center">
         <h2 class="mb-0">Blog</h2>
-        <p class="mb-0 unit-6"><a href="/">Home</a> <span class="sep">></span> <span>Блог</span></p>
+        <p class="mb-0 unit-6"><a href="/">Главная</a> <span class="sep">></span> <span>Блог</span></p>
       </div>
     </div>
 @endsection
