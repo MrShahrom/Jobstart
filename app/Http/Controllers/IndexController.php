@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 class IndexController extends Controller
 {
     public function index(){
-        $jobs = Job::with(['companies','locations', 'types'])->get();
+        $jobs = Job::with(['companies','locations', 'types'])->paginate(10);
         //dd($jobs);
         return view('index', [
             'jobs'=>$jobs,

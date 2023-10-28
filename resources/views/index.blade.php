@@ -139,17 +139,7 @@
 
         <div class="row mt-5">
           <div class="col-md-12 text-center">
-            <div class="site-block-27">
-              <ul>
-                <li><a href="#"><i class="icon-keyboard_arrow_left h5"></i></a></li>
-                <li class="active"><span>1</span></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li><a href="#">4</a></li>
-                <li><a href="#">5</a></li>
-                <li><a href="#"><i class="icon-keyboard_arrow_right h5"></i></a></li>
-              </ul>
-            </div>
+              {{$jobs->links('pagination::bootstrap-5')}}            
           </div>
         </div>
 
