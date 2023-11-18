@@ -9,7 +9,6 @@ use Illuminate\Http\Request;
 
 class PostController extends Controller
 {
-
     public function index(){
         $post = Post::all();
 
