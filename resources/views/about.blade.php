@@ -32,7 +32,7 @@
               <li>Quae impedit id maxime fugiat.</li>
               <li>Esse aut iste dolor. In.</li>
             </ul>
-            
+
             </div>
           </div>
         </div>
@@ -95,7 +95,7 @@
       </div>
     </div>
     <!-- END section -->
-    
+
     <div class="site-section border-top">
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
@@ -107,7 +107,7 @@
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="100">
 
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -123,9 +123,9 @@
 
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="200">
-            
+
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -141,9 +141,9 @@
 
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="300">
-            
+
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -162,7 +162,7 @@
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="400">
 
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -178,9 +178,9 @@
 
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="500">
-            
+
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -196,9 +196,9 @@
 
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="600">
-            
+
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -218,17 +218,17 @@
       </div>
     </div>
 
-    
+
     <div class="site-blocks-cover" style="background-image: url(images/hero_bg_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
       <div class="container">
         <div class="row row-custom align-items-center">
           <div class="col-md-10">
             <h1 class="mb-2 text-black w-75">Получите 40% скидку на новые вакансии от <span class="font-weight-bold"> Нового Работодателя</span> </h1>
-            <p class="h3"><a href="#" class="btn btn-primary py-3 px-5">Разместить вакансию</a></p>
+            <p class="h3"><a href="new-post" class="btn btn-primary py-3 px-5">Разместить вакансию</a></p>
           </div>
         </div>
       </div>
-    </div>    
+    </div>
     <div class="py-5 bg-primary">
       <div class="container">
         <div class="row">
@@ -241,7 +241,7 @@
             <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Enter Your Email">
           </div>
           <div class="col-md-3">
-            <input type="submit" value="Отправить" class="btn btn-dark btn-block" style="height: 45px;">  
+            <input type="submit" value="Отправить" class="btn btn-dark btn-block" style="height: 45px;">
           </div>
         </form>
       </div>

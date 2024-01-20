@@ -92,8 +92,8 @@
           </div>
         </div>
       </div>
-    </div>  
-    
+    </div>
+
 
     <div class="site-section bg-light">
       <div class="container">
@@ -107,45 +107,39 @@
         </div>
 
         @foreach ($jobs as $job)
-            
-        <div class="row" data-aos="fade">
-          <div class="col-md-12">
- 
-            <div class="job-post-item bg-white p-4 d-block d-md-flex align-items-center">
- 
-               <div class="mb-4 mb-md-0 mr-5">
-                <div class="job-post-item-header d-flex align-items-center">
-                  <h2 class="mr-3 text-black h4">{{$job->title}}</h2>
-                  <div class="badge-wrap">
-                   <span class="bg-primary text-white badge py-2 px-4">{{$job->types[0]->name}}</span>
-                  </div>
+            <div class="row" data-aos="fade">
+                <div class="col-md-12">
+                    <div class="job-post-item bg-white p-4 d-block d-md-flex align-items-center">
+                        <div class="mb-4 mb-md-0 mr-5">
+                            <div class="job-post-item-header d-flex align-items-center">
+                                <h2 class="mr-3 text-black h4">{{$job->title}}</h2>
+                                <div class="badge-wrap">
+                                    <span class="bg-primary text-white badge py-2 px-4">{{$job->types[0]->name}}</span>
+                                </div>
+                            </div>
+                            <div class="job-post-item-body d-block d-md-flex">
+                                <div class="mr-3"><span class="fl-bigmug-line-portfolio23"></span> <a href="#">{{$job->companies[0]->name}}</a></div>
+                                <div><span class="fl-bigmug-line-big104"></span> <span>{{$job->locations[0]->name}}</span></div>
+                            </div>
+                        </div>
+                        <div class="ml-auto">
+                            <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
+                            <a href="job-single.html" class="btn btn-primary py-2">Подать заявку</a>
+                        </div>
+                    </div>
                 </div>
-                <div class="job-post-item-body d-block d-md-flex">
-                  <div class="mr-3"><span class="fl-bigmug-line-portfolio23"></span> <a href="#">{{$job->companies[0]->name}}</a></div>
-                  <div><span class="fl-bigmug-line-big104"></span> <span>{{$job->locations[0]->name}}</span></div>
-                </div>
-               </div>
- 
-               <div class="ml-auto">
-                 <a href="#" class="btn btn-secondary rounded-circle btn-favorite text-gray-500"><span class="icon-heart"></span></a>
-                 <a href="job-single.html" class="btn btn-primary py-2">Подать заявку</a>
-               </div>
             </div>
- 
-          </div>
-         </div>
-
         @endforeach
 
         <div class="row mt-5">
           <div class="col-md-12 text-center">
-              {{$jobs->links('pagination::bootstrap-5')}}            
+              {{$jobs->links('pagination::bootstrap-5')}}
           </div>
         </div>
 
 
       </div>
-    </div>    
+    </div>
 
     <div class="site-section">
       <div class="container">
@@ -158,7 +152,7 @@
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="100">
 
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -174,9 +168,9 @@
 
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="200">
-            
+
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -192,9 +186,9 @@
 
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="300">
-            
+
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -213,7 +207,7 @@
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="400">
 
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -229,9 +223,9 @@
 
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="500">
-            
+
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -247,9 +241,9 @@
 
           </div>
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-4" data-aos="fade" data-aos-delay="600">
-            
+
             <div class="unit-3 h-100 bg-white">
-              
+
               <div class="d-flex align-items-center mb-3 unit-3-heading">
                 <div class="unit-3-icon-wrap mr-4">
                   <svg class="unit-3-svg" xmlns="http://www.w3.org/2000/svg" width="59px" height="68px">
@@ -266,7 +260,7 @@
           </div>
 
         </div>
-      
+
       </div>
     </div>
 
@@ -281,10 +275,10 @@
         </div>
         <div class="nonloop-block-4 owl-carousel" data-aos="fade">
           <div class="item col-md-8 mx-auto">
-            
+
             <div class="block-38 text-center bg-white p-4">
               <div class="block-38-img">
-                <div class="block-38-header"> 
+                <div class="block-38-header">
                   <img src="images/person_1.jpg" alt="Image placeholder">
                   <h3 class="block-38-heading">Elizabeth Graham</h3>
                   <p class="block-38-subheading">Creative Director, XYG Company</p>
@@ -312,10 +306,10 @@
           </div>
 
           <div class="item col-md-8 mx-auto">
-            
+
             <div class="block-38 text-center bg-white p-4">
               <div class="block-38-img">
-                <div class="block-38-header"> 
+                <div class="block-38-header">
                   <img src="images/person_1.jpg" alt="Image placeholder">
                   <h3 class="block-38-heading">Elizabeth Graham</h3>
                   <p class="block-38-subheading">Creative Director, XYG Company</p>
@@ -346,7 +340,7 @@
       </div>
     </div>
 
-    
+
 
     <div class="site-section">
       <div class="container">
@@ -363,7 +357,7 @@
             <h2 class="h5 font-weihgt-normal line-height-sm mb-3"><a href="#" class="text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. In pariatur nostrum asperiores corrupti delectus.</p>
             </div>
-            
+
           </div>
           <div class="col-md-6 mb-5 mb-lg-0 col-lg-3" data-aos="fade">
             <div class="position-relative unit-8">
@@ -392,20 +386,20 @@
         </div>
       </div>
     </div>
-    
+
     <div class="py-5 bg-primary">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
             <h2 class="text-white h4 font-weihgt-normal mb-4">Подписаться на рассылку</h2>
           </div>
-        </div>  
+        </div>
         <form action="" class="row">
           <div class="col-md-9">
             <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Ваш эл.почта">
           </div>
           <div class="col-md-3">
-            <input type="submit" value="Send" class="btn btn-dark btn-block" style="height: 45px;">  
+            <input type="submit" value="Send" class="btn btn-dark btn-block" style="height: 45px;">
           </div>
         </form>
       </div>

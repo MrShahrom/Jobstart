@@ -18,9 +18,9 @@
 <div class="site-section bg-light">
       <div class="container">
         <div class="row">
-       
+
           <div class="col-md-12 col-lg-8 mb-5">
-          
+
             <form action="#" class="p-5 bg-white">
 
               <div class="row form-group">
@@ -41,11 +41,11 @@
                   <input type="text" id="subject" class="form-control" placeholder="Enter Subject">
                 </div>
               </div>
-              
+
 
               <div class="row form-group">
                 <div class="col-md-12">
-                  <label class="font-weight-bold" for="message">Сообщение</label> 
+                  <label class="font-weight-bold" for="message">Сообщение</label>
                   <textarea name="message" id="message" cols="30" rows="5" class="form-control" placeholder="Сообщение"></textarea>
                 </div>
               </div>
@@ -56,7 +56,7 @@
                 </div>
               </div>
 
-  
+
             </form>
           </div>
 
@@ -73,7 +73,7 @@
               <p class="mb-0"><a href="#">youremail@domain.com</a></p>
 
             </div>
-            
+
             <div class="p-4 mb-3 bg-white">
               <h3 class="h5 text-black mb-3">Дополнительная информация</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ad iure porro mollitia architecto hic consequuntur. Distinctio nisi perferendis dolore, ipsa consectetur</p>
@@ -91,7 +91,7 @@
             <h2>Часто задаваемые вопросы</h2>
           </div>
         </div>
-        
+
         <div class="row justify-content-center" data-aos="fade" data-aos-delay="100">
           <div class="col-md-8">
             <div class="accordion unit-8" id="accordion">
@@ -105,7 +105,7 @@
                 </div>
               </div>
             </div> <!-- .accordion-item -->
-            
+
             <div class="accordion-item">
               <h3 class="mb-0 heading">
                 <a class="btn-block" data-toggle="collapse" href="#collapseTwo" role="button" aria-expanded="false" aria-controls="collapseTwo">Сколько платят за 3 месяца<span class="icon"></span></a>
@@ -142,7 +142,7 @@
           </div>
           </div>
         </div>
-      
+
       </div>
     </div>
 
@@ -155,10 +155,10 @@
         </div>
         <form action="" class="row">
           <div class="col-md-9">
-            <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Enter Your Email">
+            <input type="text" class="form-control border-0 mb-3 mb-md-0" placeholder="Введите своё email ">
           </div>
           <div class="col-md-3">
-            <input type="submit" value="Send" class="btn btn-dark btn-block" style="height: 45px;">  
+            <input type="submit" value="Отправить" class="btn btn-dark btn-block" style="height: 45px;">
           </div>
         </form>
       </div>
